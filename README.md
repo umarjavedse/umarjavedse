@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://umarjavedse.github.io"><img src="https://img.shields.io/badge/Portfolio-umarjavedse.github.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/umarjavedse/"><img src="https://img.shields.io/badge/LinkedIn-umarjavedse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Lahore-Pakistan-2F81F7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=umarjavedse&style=for-the-badge&color=2F81F7&label=Profile+views" alt="Profile views" />
@@ -33,6 +34,16 @@ I'm a full stack engineer with **9+ years** of building production web apps in T
 | **RAG** | Embeddings in PostgreSQL + pgvector, with per-tenant data isolation |
 | **Guardrails** | Answers checked against their sources; prompt-injection and data-leak blocking |
 | **AI dev workflow** | Claude Code, Cursor, MCP, spec-driven development |
+
+---
+
+### 🛠️ Open-source projects
+
+| Project | What it does |
+| --- | --- |
+| [**ts-agent-kit**](https://github.com/umarjavedse/ts-agent-kit) | A tiny, dependency-free TypeScript agent loop with tool calling for Claude and OpenAI: parallel tools, self-correcting errors, retries, offline tests |
+| [**rag-guardrails**](https://github.com/umarjavedse/rag-guardrails) | Guardrails for RAG apps: catches unsupported claims and invented numbers, detects prompt injection, redacts secrets and PII |
+| [**umarjavedse.github.io**](https://umarjavedse.github.io) | My portfolio site |
 
 ---
 
@@ -75,4 +86,4 @@ I'm a full stack engineer with **9+ years** of building production web apps in T
 
 ### 📫 Connect
 
-Find me on **[LinkedIn](https://www.linkedin.com/in/umarjavedse/)**.
+Find me on **[LinkedIn](https://www.linkedin.com/in/umarjavedse/)** or at **[umarjavedse.github.io](https://umarjavedse.github.io)**.
